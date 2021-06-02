@@ -8,7 +8,7 @@ async def typewriter(typew):
     sleep(3)
     await typew.edit("`Muka kalian Burik...`")
     sleep(3)
-    await typew.edit("`Kayak Jemboot`")
+    await typew.edit("`Kayak Kontol`")
     sleep(1)
     await typew.edit("`Muka Gw Gak Burik Kek Kalian`")
 # Create by myself @localheart
@@ -20,9 +20,9 @@ async def typewriter(typew):
     sleep(3)
     await typew.edit("`Muka Gue Burik...`")
     sleep(3)
-    await typew.edit("`Kayak Jemboot`")
+    await typew.edit("`Kayak Kontol`")
     sleep(1)
-    await typew.edit("`Muka Gw Burik Kek Jembott`")
+    await typew.edit("`Muka Gw Burik Kek BTS`")
 # Create by myself @localheart
 
 
