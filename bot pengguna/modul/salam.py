@@ -66,7 +66,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`Astaghfirulloh anda berdosa sekali...`")
     sleep(1)
-    await typew.edit("`Waallaikumsalam Sayang......`")
+    await typew.edit("`Waallaikumsalam Bang......`")
 # Owner @Si_Dian
 
 
